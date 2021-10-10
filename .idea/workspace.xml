@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b477ecfb-05d3-4031-87cf-12f56832194a" name="Changes" comment="add commit" />
+    <list default="true" id="b477ecfb-05d3-4031-87cf-12f56832194a" name="Changes" comment="add commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633888933963</updated>
       <workItem from="1633888936134" duration="5044000" />
-      <workItem from="1633896616251" duration="789000" />
+      <workItem from="1633896616251" duration="2714000" />
     </task>
     <task id="LOCAL-00001" summary="add commit">
       <created>1633896656011</created>
